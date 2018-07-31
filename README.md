@@ -2,6 +2,8 @@
 
 Report ios downloads to slack
 
+See https://qiita.com/musclemikiya/items/382da8cf3480a6332b84
+
 ## Installtion
 
 1, Enter vendor No.
@@ -21,3 +23,4 @@ https://github.com/kuma-guy/download-reporter/blob/master/Reporter.properties#L1
 ```
 0 9 * * *  /home/{YOUR_USER_NAME}/download-reporter/DownloadCount_iOS.sh
 ```
+#
